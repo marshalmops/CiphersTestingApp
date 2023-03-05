@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CiphersTestingApp</string>
+
+    <string name="aes_128_cipher_caption">AES\n128/CTR</string>
+    <string name="aes_256_cipher_caption">AES\n256/CTR</string>
+    <string name="blowfish_128_cipher_caption">BlowFish\n128/CTR</string>
+    <string name="blowfish_256_cipher_caption">BlowFish\n256/CTR</string>
+    <string name="chacha20_cipher_caption">ChaCha20\n256</string>
+
+    <string name="total_time_small_data_cipher_caption">Total time (for small data ciphering):</string>
+    <string name="total_time_small_data_decipher_caption">Total time (for small data deciphering):</string>
+    <string name="total_time_large_data_cipher_caption">Total time (for large data ciphering):</string>
+    <string name="total_time_large_data_decipher_caption">Total time (for large data deciphering):</string>
+
+    <string name="start_button_caption">Start</string>
+</resources>
