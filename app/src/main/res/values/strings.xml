@@ -5,7 +5,9 @@
     <string name="aes_256_cipher_caption">AES\n256/CTR</string>
     <string name="blowfish_128_cipher_caption">BlowFish\n128/CTR</string>
     <string name="blowfish_256_cipher_caption">BlowFish\n256/CTR</string>
-    <string name="chacha20_cipher_caption">ChaCha20\n256</string>
+    <string name="chacha20_cipher_caption">ChaCha\n20\n256</string>
+
+    <string name="default_total_time_value">-</string>
 
     <string name="total_time_small_data_cipher_caption">Total time (for small data ciphering):</string>
     <string name="total_time_small_data_decipher_caption">Total time (for small data deciphering):</string>
